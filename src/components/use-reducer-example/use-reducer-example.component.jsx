@@ -2,6 +2,7 @@ import React, { useEffect, useReducer } from 'react';
 
 import Card from '../card/card.component';
 
+
 const INITIAL_STATE = {
   currentUser: null,
   searchQuery: 'Bret'
